@@ -5,7 +5,7 @@
 <br>
 
 
-<h1 align="center"> Jason Estúdio </h1>
+<h1 align="center"> Json Estúdio </h1>
 
  📝 Português
 

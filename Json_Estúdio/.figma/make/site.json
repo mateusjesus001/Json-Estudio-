@@ -1,0 +1,11 @@
+{
+  "title": "Jason Estúdio",
+  "description": "A reference-based application frontend that presents features and workflows aligned with the system’s class model, helping users access its core functionality.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
